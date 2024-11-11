@@ -4,9 +4,11 @@ background-position: center;
 background-size: 100%;
 }
 .card {
-    
     margin-top: 50px;
     border-radius: 15px;
+    background-image: url(Hutao [DEBFABB].png);
+    background-size: cover;
+    background-position: center;
 }
 .profile-img {
     width: 150px;
