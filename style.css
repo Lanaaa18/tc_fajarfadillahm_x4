@@ -4,7 +4,7 @@ background-position: center;
 background-size: 100%;
 }
 .card {
-    background: (Hutao [DEBFABB].png);
+    background: img(Hutao [DEBFABB].png);
     margin-top: 50px;
     border-radius: 15px;
 }
